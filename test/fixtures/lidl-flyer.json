@@ -1,0 +1,53 @@
+{
+ "flyer": {
+  "id": "01a1aacc-6224-7acf-b018-055857c52401",
+  "name": "Du 12/11 au 18/11",
+  "title": "Les promos de la semaine",
+  "startDate": "2026-11-05",
+  "endDate": "2026-11-18",
+  "offerStartDate": "2026-11-12",
+  "offerEndDate": "2026-11-18",
+  "flyerUrlAbsolute": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-12-11-au-18-11-les-promos-de-la-semaine/ar/0?_ab=1&",
+  "thumbnailUrl": "https://imgproxy.leaflets.schwarz/auKLMPtOD5rw3-NPvIyzNCaeHrBJjlXZ3K7wBU1ikhU/rs:fit:400:400:1/g:no/",
+  "pages": [
+   {
+    "number": 1,
+    "image": "https://imgproxy.leaflets.schwarz/rfCugFuWVWpVlKUU-r_LpinEB-Q4Y9REyiljqC-gsJg/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWFhY2MtNjIyNC03YWNmLWIwMTgtMDU1ODU3YzUyNDAxL3BhZ2UtMDFfMjM5NDNiYTBmNzU3ODZiMDhkYmUxNzcyODhlNDQzOGMucG5n.jpg"
+   },
+   {
+    "number": 2,
+    "image": "https://imgproxy.leaflets.schwarz/Af7fqABRaYtdByCfNvGHgPwgdQ0Pvfkbzv2jnQqe26U/rs:fit:1200:1200:1/g:no/czM6Ly9sZWFmbGV0cy9pbWFnZXMvMDFhMWFhY2MtNjIyNC03YWNmLWIwMTgtMDU1ODU3YzUyNDAxL3BhZ2UtMDJfYjJmY2Y1NGIxM2ViYTUzOTVhZTg4NDgwZjcxYmFiYzYucG5n.jpg"
+   },
+   {
+    "number": 3
+   }
+  ],
+  "products": {
+   "01a1aae5-8d7a-7089-9202-c6c7f662d907": {
+    "productId": "100410885",
+    "title": "PARKSIDE® Scie sabre sans fil PSSA 20-Li B2, 20 V",
+    "brand": "PARKSIDE®",
+    "wonCategoryPrimary": "Mondes de besoins/Bricolage & Jardinage/Outils sans fil",
+    "image": "https://www.lidl.fr/assets/gcp40e14cf9fb334793a1fe74cc29f74e57.png",
+    "url": "https://www.lidl.fr/p/parkside-scie-sabre-sans-fil-20-v-pssa-20-li-b2-sans-batterie-ni-chargeur/p100410885",
+    "price": "21.99"
+   },
+   "01a1aaec-0000-0000-0000-000000000001": {
+    "productId": "100413261",
+    "title": "PARKSIDE® T-shirt thermique à manches longues homme",
+    "brand": "PARKSIDE®",
+    "wonCategoryPrimary": "Mondes de besoins/Mode & Accessoires/Vêtements de travail",
+    "price": "4.49"
+   },
+   "01a1aaec-0000-0000-0000-000000000002": {
+    "productId": "100400001",
+    "title": "Gabby&#39;s Dollhouse poupée",
+    "wonCategoryPrimary": "Mondes de besoins/Bébé, enfant & jouets/Jouets",
+    "price": "12.99"
+   },
+   "01a1aaec-0000-0000-0000-000000000003": {
+    "title": "sans identifiant"
+   }
+  }
+ }
+}
